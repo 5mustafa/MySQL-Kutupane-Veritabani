@@ -1,1 +1,1 @@
-# kutupane-veritaban-
+# kutupane-veritabani

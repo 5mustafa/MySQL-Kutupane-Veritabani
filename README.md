@@ -1,1 +1,1 @@
-# k-t-pane-veritaban-
+# kutupane-veritaban-

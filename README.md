@@ -1,2 +1,2 @@
-# kutupane-veritabani
+# Kütüpane-Veritabanı
 MySQL kütüphane veri tabanı
